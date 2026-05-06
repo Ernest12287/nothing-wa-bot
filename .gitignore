@@ -1,0 +1,17 @@
+node_modules
+.env
+package-lock.json
+index.js
+Handlers/channelhandlers.js
+Handlers/messagehandlers.js
+Handlers/normalMessageHandlers.js
+Handlers/statusbroadcasthandlers.js
+obfuscate.js
+.txt
+.txt2
+AFK_FEATURE.md
+AFK_SETUP.md 
+exports.js
+.txt
+Elliev1
+b/

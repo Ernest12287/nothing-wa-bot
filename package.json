@@ -1,0 +1,57 @@
+{
+  "name": "elliev1",
+  "version": "2.0.0",
+  "description": "Ellie WhatsApp Bot - Upgraded to Baileys v7 with LID Support",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "pm2:start": "pm2 start index.js --name elliev1",
+    "pm2:stop": "pm2 stop elliev1",
+    "pm2:restart": "pm2 restart elliev1",
+    "pm2:delete": "pm2 delete elliev1",
+    "pm2:logs": "pm2 logs elliev1",
+    "pm2:monit": "pm2 monit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ernest12287/EllieV1.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys-v7",
+    "lid-support",
+    "whatsapp-bot",
+    "ellie",
+    "ernest"
+  ],
+  "author": {
+    "name": "Pease Ernest",
+    "email": "peaseernest8@gmail.com",
+    "url": "https://github.com/Ernest12287"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.7.9",
+    "baileys": "^7.0.0-rc.9",
+    "docx": "^9.6.0",
+    "dotenv": "^16.4.7",
+    "ernest-logger": "^2.0.4",
+    "link-preview-js": "^3.1.0",
+    "nothing-browser": "^0.0.19",
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.8",
+    "utf-8-validate": "^6.0.3"
+  }
+}

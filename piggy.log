@@ -1,0 +1,43 @@
+[07:16:29] [PIGGY] ℹ️  INFO  logger initialized
+[07:17:03] [PIGGY] ℹ️  INFO  Cleaning up existing browser processes...
+[07:17:04] [PIGGY] ✅  SUCCESS  Binary found (custom path): b/nothing-browser-headless.exe
+[07:17:04] [PIGGY] ℹ️  INFO  Spawning Nothing Browser (b/nothing-browser-headless.exe) from: b/nothing-browser-headless.exe
+[07:17:04] [PIGGY] ⚠️  WARN  Browser process exited with code: 9
+[07:17:06] [PIGGY] ❌  ERROR  Browser started but exited immediately
+[07:17:06] [PIGGY] ℹ️  INFO  Connecting to socket: \\.\pipe\piggy
+[07:25:54] [PIGGY] ℹ️  INFO  logger initialized
+[07:26:19] [PIGGY] ℹ️  INFO  Cleaning up existing browser processes...
+[07:26:19] [PIGGY] ❌  ERROR  ❌ Binary not found at custom path: b/nothing-browser-headless.exe
+[07:26:50] [PIGGY] ℹ️  INFO  logger initialized
+[07:27:05] [PIGGY] ℹ️  INFO  Cleaning up existing browser processes...
+[07:27:06] [PIGGY] ✅  SUCCESS  Binary found (custom path): b/nothing-browser-headful.exe
+[07:27:06] [PIGGY] ℹ️  INFO  Spawning Nothing Browser (b/nothing-browser-headful.exe) from: b/nothing-browser-headful.exe
+[07:27:08] [PIGGY] ✅  SUCCESS  Browser spawned and running (b/nothing-browser-headful.exe)
+[07:27:08] [PIGGY] ℹ️  INFO  Connecting to socket: \\.\pipe\piggy
+[07:27:49] [PIGGY] ℹ️  INFO  Cleaning up existing browser processes...
+[07:27:49] [PIGGY] ✅  SUCCESS  Binary found (custom path): b/nothing-browser-headful.exe
+[07:27:49] [PIGGY] ℹ️  INFO  Spawning Nothing Browser (b/nothing-browser-headful.exe) from: b/nothing-browser-headful.exe
+[07:27:51] [PIGGY] ✅  SUCCESS  Browser spawned and running (b/nothing-browser-headful.exe)
+[07:27:52] [PIGGY] ℹ️  INFO  Connecting to socket: \\.\pipe\piggy
+[07:27:52] [PIGGY] ✅  SUCCESS  Connected to Piggy server (socket)
+[07:27:52] [PIGGY] ℹ️  INFO  [piggy] launched — tab mode: "tab", binary: "b/nothing-browser-headful.exe"
+[07:27:52] [PIGGY] ✅  SUCCESS  [amazon] registered as tab c0308a15-6b49-425f-9f9c-aba932fd89d7
+[07:27:52] [PIGGY] ℹ️  INFO  [piggy] actHuman: true
+[07:27:52] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=matress
+[07:28:08] [PIGGY] ⚠️  WARN  Browser process exited with code: 0
+[07:30:19] [PIGGY] ⚠️  WARN  Browser process exited with code: 0
+[07:30:44] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=charger
+[07:31:06] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=charger
+[07:31:28] [PIGGY] ℹ️  INFO  logger initialized
+[07:31:47] [PIGGY] ℹ️  INFO  Cleaning up existing browser processes...
+[07:31:47] [PIGGY] ✅  SUCCESS  Binary found (custom path): b/nothing-browser-headful.exe
+[07:31:47] [PIGGY] ℹ️  INFO  Spawning Nothing Browser (b/nothing-browser-headful.exe) from: b/nothing-browser-headful.exe
+[07:31:49] [PIGGY] ✅  SUCCESS  Browser spawned and running (b/nothing-browser-headful.exe)
+[07:31:50] [PIGGY] ℹ️  INFO  Connecting to socket: \\.\pipe\piggy
+[07:31:50] [PIGGY] ✅  SUCCESS  Connected to Piggy server (socket)
+[07:31:50] [PIGGY] ℹ️  INFO  [piggy] launched — tab mode: "tab", binary: "b/nothing-browser-headful.exe"
+[07:31:50] [PIGGY] ✅  SUCCESS  [amazon] registered as tab 711024fd-ccfe-4d7e-a04a-6c17ca3d07ef
+[07:31:50] [PIGGY] ℹ️  INFO  [piggy] actHuman: true
+[07:31:50] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=charger
+[07:33:27] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=dipers
+[07:34:13] [PIGGY] 🌐  NETWORK  [amazon] navigating → https://www.amazon.com/s?k=balls%20soccer

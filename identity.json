@@ -1,0 +1,22 @@
+{
+    "audio_seed": 0.19703786819777258,
+    "canvas_seed": 0.5187627492380464,
+    "chrome_version": 124,
+    "cpu_cores": 4,
+    "font_seed": 0.12611765976241396,
+    "generated_at": "2026-05-06T04:27:07Z",
+    "gpu_renderer": "ANGLE (Intel, Mesa Intel(R) HD Graphics 3000 (SNB GT2), OpenGL 4.6)",
+    "gpu_vendor": "Google Inc. (Intel)",
+    "identity_id": "ca9afb31-9c92-4350-b5b7-409959a9cfe4",
+    "language": "en-US",
+    "os": "Windows NT 10.0; Win64; x64",
+    "pixel_ratio": 1,
+    "platform": "Win32",
+    "ram_gb": 8,
+    "screen_h": 768,
+    "screen_w": 1366,
+    "sec_ch_ua": "\"Google Chrome\";v=\"124\", \"Chromium\";v=\"124\", \"Not-A.Brand\";v=\"99\"",
+    "timezone": "Africa/Nairobi",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "webgl_seed": 0.8489489166573383
+}

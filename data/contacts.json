@@ -1,0 +1,24 @@
+{
+  "254793859108@s.whatsapp.net": {
+    "jid": "254793859108@s.whatsapp.net",
+    "status": "registered",
+    "opted_out": false,
+    "onboarding_step": null,
+    "profile": {
+      "name": "Hi",
+      "gender": "male",
+      "religion": "islam",
+      "age": "12",
+      "email": "peaseernest8@gmail.com"
+    },
+    "schedules": [],
+    "morning_messages": {
+      "enabled": true,
+      "last_sent": null
+    },
+    "meta": {
+      "first_seen": "2026-05-05T18:06:36.734Z",
+      "last_active": "2026-05-05T18:09:06.427Z"
+    }
+  }
+}
